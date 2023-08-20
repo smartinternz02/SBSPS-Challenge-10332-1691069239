@@ -25,17 +25,20 @@ Before you begin, ensure you have met the following requirements:
 - Flask is installed. If not, you can install it using `pip install flask`.
 
 ## Screenshots
-student-placed-prediction
+Student placed prediction(Giving high values)
 ![output_1(student-placed-prediction)](https://github.com/smartinternz02/SBSPS-Challenge-10332-1691069239/assets/120584943/513ed0bf-6460-4da6-b82d-54ad8b6c53fc)
 
-student-placed-prediction-result
+
+Student placed prediction result
 ![output_2(student-placed-prediction-result)](https://github.com/smartinternz02/SBSPS-Challenge-10332-1691069239/assets/120584943/5e3f1e4f-4cd1-493b-a220-997bd217fac1)
 
 
-student-not_placed-prediction
+
+Student not_placed prediction(Giving low values)
 ![output_3(student-not_placed-prediction)](https://github.com/smartinternz02/SBSPS-Challenge-10332-1691069239/assets/120584943/ec25fece-41cf-4198-b6db-d365591ce2ff)
 
-student-not_placed-prediction-result
+
+Student not placed prediction result
 ![output_4(student-not_placed-prediction-result)](https://github.com/smartinternz02/SBSPS-Challenge-10332-1691069239/assets/120584943/8a997b48-a164-43f8-ad97-d4a48cc9e612)
 
 
