@@ -3,7 +3,7 @@ Identifying Patterns and Trends in Campus Placement Data using Machine Learning
 
 # Placement Prediction Web Application
 
-![image](https://github.com/smartinternz02/SBSPS-Challenge-10332-1691069239/assets/120584943/285a25fe-a0c1-4a7b-866c-4c761a453c0f)
+![image](https://github.com/smartinternz02/SBSPS-Challenge-10332-1691069239/assets/120584943/08d15d31-c4b7-4bbd-9db3-d2b31c79acc9)
 
 
 ## Introduction
