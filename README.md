@@ -34,6 +34,15 @@ Student placed prediction result
 
 
 
+
+
+
+
+
+
+
+
+
 Student not_placed prediction(Giving low values)
 ![output_3(student-not_placed-prediction)](https://github.com/smartinternz02/SBSPS-Challenge-10332-1691069239/assets/120584943/ec25fece-41cf-4198-b6db-d365591ce2ff)
 
